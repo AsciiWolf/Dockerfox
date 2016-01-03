@@ -1,5 +1,7 @@
-Dockerized Firefox with integrated Java and Flash.
-==================================================
+Dockerfox
+=========
+#### Dockerized Firefox with integrated Java and Flash.
+
 **Installation:**
 
 Run: *./install.sh*
