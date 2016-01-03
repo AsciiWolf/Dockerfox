@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Terminal=true
+Exec=dockerfox-java-settings
+Name=Java Settings (Dockerfox)
+Icon=start
+Categories=Settings;

@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=dockerfox
+Name=Mozilla Firefox (Dockerfox)
+Icon=start
+Categories=Network;WebBrowser;

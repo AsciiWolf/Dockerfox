@@ -1,0 +1,3 @@
+#/usr/bin/env bash
+
+docker exec -it dockerfox /usr/lib/jvm/java-8-oracle/bin/ControlPanel
