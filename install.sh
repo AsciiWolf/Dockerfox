@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-echo -e "Building Docker image..."
+echo -e "Downloading Docker image..."
 
-docker build -t dockerfox .
+docker pull asciiwolf/dockerfox
 
 echo -e "\nInstalling launcher..."
 
