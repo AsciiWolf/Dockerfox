@@ -4,7 +4,9 @@ Dockerfox
 
 **Installation:**
 
-Run: *./install.sh*
+*git clone https://github.com/AsciiWolf/Dockerfox.git*
+
+*cd Dockerfox && ./install.sh*
 
 **Usage:**
 
